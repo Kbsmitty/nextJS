@@ -9,7 +9,7 @@ import "./pages.css";
 export default function Page() {
     return (
         <div>
-            <a href="https://github.com/Kbsmitty/demonext">GitHub Repository</a>
+            <a href="https://github.com/Kbsmitty/nextJS">GitHub Repository</a>
             <h1>Button Test</h1>
             <CountButton />
             <CountButton2 />
